@@ -1,0 +1,41 @@
+name: finalProjenv
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - blas=1.0=mkl
+  - ca-certificates=2020.6.24=0
+  - certifi=2020.6.20=py37_0
+  - intel-openmp=2019.4=233
+  - joblib=0.16.0=py_0
+  - libcxx=10.0.0=1
+  - libedit=3.1.20191231=h1de35cc_1
+  - libffi=3.2.1=h0a44026_6
+  - libgfortran=3.0.1=h93005f0_2
+  - llvm-openmp=10.0.0=h28b9765_0
+  - mkl=2019.4=233
+  - mkl-service=2.3.0=py37hfbe908c_0
+  - mkl_fft=1.1.0=py37hc64f4ea_0
+  - mkl_random=1.1.1=py37h959d312_0
+  - ncurses=6.2=h0a44026_1
+  - numpy=1.19.1=py37h3b9f5b6_0
+  - numpy-base=1.19.1=py37hcfb5961_0
+  - openssl=1.1.1g=h1de35cc_0
+  - pandas=1.1.0=py37hb1e8313_0
+  - pip=20.2.2=py37_0
+  - python=3.7.6=h359304d_2
+  - python-dateutil=2.8.1=py_0
+  - pytz=2020.1=py_0
+  - readline=7.0=h1de35cc_5
+  - scikit-learn=0.23.1=py37h603561c_0
+  - scipy=1.5.0=py37h912ce22_0
+  - setuptools=49.6.0=py37_0
+  - six=1.15.0=py_0
+  - sqlite=3.33.0=hffcf06c_0
+  - threadpoolctl=2.1.0=pyh5ca1d4c_0
+  - tk=8.6.10=hb0a8c7a_0
+  - wheel=0.34.2=py37_0
+  - xz=5.2.5=h1de35cc_0
+  - zlib=1.2.11=h1de35cc_3
+prefix: /opt/anaconda3/envs/finalProjenv
+
